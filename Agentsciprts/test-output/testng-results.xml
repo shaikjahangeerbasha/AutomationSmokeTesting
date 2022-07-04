@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-04T16:57:14 IST" name="Default suite" finished-at="2022-07-04T16:58:51 IST" duration-ms="96587">
+    <groups>
+      <group name="sanity">
+        <method signature="Endtoend.intibase()[pri:0, instance:com.agentscript.end.Endtoend@505fc5a4]" name="intibase" class="com.agentscript.end.Endtoend"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2022-07-04T16:57:14 IST" name="Default test" finished-at="2022-07-04T16:58:51 IST" duration-ms="96587">
+      <class name="com.agentscript.end.Endtoend">
+        <test-method signature="intibase()[pri:0, instance:com.agentscript.end.Endtoend@505fc5a4]" started-at="2022-07-04T16:57:15 IST" name="intibase" finished-at="2022-07-04T16:57:23 IST" duration-ms="8322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intibase -->
+        <test-method signature="Differentagentlogin()[pri:1, instance:com.agentscript.end.Endtoend@505fc5a4]" started-at="2022-07-04T16:57:23 IST" name="Differentagentlogin" finished-at="2022-07-04T16:58:51 IST" duration-ms="88228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Differentagentlogin -->
+      </class> <!-- com.agentscript.end.Endtoend -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
